@@ -7,7 +7,7 @@ BRANDS = []
 
   def initialize(brand)
     @brand = brand
-    if BRANDS.include?(@brand))
+    if BRANDS.include?(brand)
     #if size = 3
     BRANDS << brand 
      end 
